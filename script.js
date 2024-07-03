@@ -147,7 +147,7 @@ function hideNote() {
     document.querySelector(".loader").classList.add("hide");
     document.querySelector("main").classList.remove("hide");
     QuizeArea.classList.remove("hide");
-  }, 1200);
+  }, 1000);
 }
 
 //Add Event listener to Options
