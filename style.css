@@ -222,7 +222,7 @@ main {
 .note {
   position: absolute;
   width: 90vw;
-  height: 60vh;
+  height: 70vh;
   padding: 10px;
   border-radius: 10px;
   background-color: var(--noteClr);
@@ -295,13 +295,7 @@ main {
 .hide {
   display: none;
 }
-.green {
-  background-color: rgb(14, 190, 14);
-}
 
-.red {
-  background-color: rgb(245, 81, 81);
-}
 
 @media (min-width: 600px) {
   .topic-menu {

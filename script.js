@@ -30,7 +30,7 @@ function show_question(que) {
 function show_Option(option) {
   let i = 0;
   for (const index of Allopt) {
-    index.innerHTML = `&nbsp; ${option[i++]}`;
+    index.innerHTML = `${option[i++]}`;
   }
 }
 
@@ -147,7 +147,7 @@ function hideNote() {
     document.querySelector(".loader").classList.add("hide");
     document.querySelector("main").classList.remove("hide");
     QuizeArea.classList.remove("hide");
-  }, 1000);
+  }, 1200);
 }
 
 //Add Event listener to Options
