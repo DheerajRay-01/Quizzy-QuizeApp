@@ -23,14 +23,14 @@ let gameStatus;
 //Function For Display  Questions
 function show_question(que) {
   document.querySelector(".Qno").textContent = QNo + 1;
-  question.textContent = `${que}`;
+  question.innerHTML = `${que}`;
 }
 
 // Function For Display options
 function show_Option(option) {
   let i = 0;
   for (const index of Allopt) {
-    index.textContent = `${option[i++]}`;
+    index.innerHTML = `${option[i++]}`;
   }
 }
 
