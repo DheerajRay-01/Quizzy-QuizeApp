@@ -16,6 +16,9 @@ Quizzy is a responsive quiz web application built with HTML, CSS, and JavaScript
 3. **View Score**: After completing all questions, your score will be displayed.
 4. **Review Answers**: Optionally, review all questions along with correct answers after finishing the quiz.
 
+## Live Demo
+Check out Quizzy in action [here](https://dheerajray-01.github.io/Quizzy-QuizeApp/).
+
 ## Screenshots
 ![Quizzy Landing Page](https://github.com/DheerajRay-01/Quizzy-QuizeApp/assets/144889143/e7312230-90f8-4ca8-9265-b8bab1ed377b)
 *Caption: Landing page of Quizzy in light mode.*
@@ -26,8 +29,6 @@ Quizzy is a responsive quiz web application built with HTML, CSS, and JavaScript
 ![Quizzy mobile View in Dark & light mode](https://github.com/DheerajRay-01/Quizzy-QuizeApp/assets/144889143/1c33ef56-f599-4324-99b1-977677ea9998)
 *Caption: Quiz results page showing the score.*
 
-## Live Demo
-Check out Quizzy in action [here](https://dheerajray-01.github.io/My-Card/).
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to Quizzy, follow these steps:
