@@ -30,7 +30,7 @@ function show_question(que) {
 function show_Option(option) {
   let i = 0;
   for (const index of Allopt) {
-    index.innerHTML = `${option[i++]}`;
+    index.innerHTML = `&nbsp; ${option[i++]}`;
   }
 }
 
